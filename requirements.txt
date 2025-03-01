@@ -4,3 +4,4 @@ tensorflow==2.10.0
 numpy==1.25.2
 pandas==2.2.2
 Werkzeug==3.0.4
+gunicorn
